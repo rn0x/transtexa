@@ -1,0 +1,35 @@
+{
+  "name": "transtexa",
+  "description": "A versatile library for text translation using Hugging Face's Transformers",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "NLP",
+    "natural language processing",
+    "translation",
+    "text processing",
+    "Hugging Face",
+    "Transformers",
+    "Node.js",
+    "Python",
+    "language models",
+    "linguistics"
+],
+  "author": {
+    "name": "ryan almalki",
+    "url": "https://github.com/rn0x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rn0x/transtexa.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rn0x/transtexa/issues"
+  },
+  "homepage": "https://github.com/rn0x/transtexa#readme",
+  "license": "MIT"
+}
